@@ -1,0 +1,14 @@
+C:\Users\lilsp\OneDrive\Documentos\Aula\TestesC#\bin\Debug\net8.0\TestesC.exe
+C:\Users\lilsp\OneDrive\Documentos\Aula\TestesC#\bin\Debug\net8.0\TestesC.deps.json
+C:\Users\lilsp\OneDrive\Documentos\Aula\TestesC#\bin\Debug\net8.0\TestesC.runtimeconfig.json
+C:\Users\lilsp\OneDrive\Documentos\Aula\TestesC#\bin\Debug\net8.0\TestesC.dll
+C:\Users\lilsp\OneDrive\Documentos\Aula\TestesC#\bin\Debug\net8.0\TestesC.pdb
+C:\Users\lilsp\OneDrive\Documentos\Aula\TestesC#\obj\Debug\net8.0\TestesC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilsp\OneDrive\Documentos\Aula\TestesC#\obj\Debug\net8.0\TestesC.AssemblyInfoInputs.cache
+C:\Users\lilsp\OneDrive\Documentos\Aula\TestesC#\obj\Debug\net8.0\TestesC.AssemblyInfo.cs
+C:\Users\lilsp\OneDrive\Documentos\Aula\TestesC#\obj\Debug\net8.0\TestesC.csproj.CoreCompileInputs.cache
+C:\Users\lilsp\OneDrive\Documentos\Aula\TestesC#\obj\Debug\net8.0\TestesC.dll
+C:\Users\lilsp\OneDrive\Documentos\Aula\TestesC#\obj\Debug\net8.0\refint\TestesC.dll
+C:\Users\lilsp\OneDrive\Documentos\Aula\TestesC#\obj\Debug\net8.0\TestesC.pdb
+C:\Users\lilsp\OneDrive\Documentos\Aula\TestesC#\obj\Debug\net8.0\TestesC.genruntimeconfig.cache
+C:\Users\lilsp\OneDrive\Documentos\Aula\TestesC#\obj\Debug\net8.0\ref\TestesC.dll
